@@ -1,0 +1,11 @@
+void setup(){
+(13, output);
+}
+
+void loop(){
+(13, HIGT)
+delay(500)
+(13, LOW)
+delay(500)
+}
+
